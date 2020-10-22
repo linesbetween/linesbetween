@@ -1,5 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on A line A day
+- 🌱 I’m currently learning React.JS, Typescript, Spring boot
+- 👯 I’m looking to collaborate on full stack web project
+- 🤔 I’m looking for help with deployment
 
 
 <!--
