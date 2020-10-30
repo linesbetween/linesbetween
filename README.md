@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React.JS, Typescript, Spring boot
 - 👯 I’m looking to collaborate on full stack web project
 - 🤔 I’m looking for help with CI/CD, cloud native app
-- 💬 Ask me about ... anything
+- 💬 Ask me about ... anything!
 
 <!--
 **linesbetween/linesbetween** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
