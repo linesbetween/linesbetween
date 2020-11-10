@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React.JS, Typescript, Spring boot
 - 👯 I’m looking to collaborate on full stack web project
 - 🤔 I’m looking for help with CI/CD, cloud native app
+- ⚡ Fun fact: I shoot 360 videos, play VR/AR
 - 💬 Ask me about ... anything!
 
 <!--
