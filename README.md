@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on A line A day
 - 🌱 I’m currently learning React.JS, Typescript, Spring boot
 - 👯 I’m looking to collaborate on full stack web project
-- 🤔 I’m looking for help with AWS, cloud native app
+- 🤔 I’m looking for help with Docker AWS, cloud native app, Nextjs
 - ⚡ Fun fact: I shoot 360 videos, play VR/AR
 - 💬 Ask me about ... anything!
 
