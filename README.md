@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on 3 projects at the same time.
 - 🌱 Using and learning Java Spring, React, Next.js, Typescript, MySQL, Mongodb.
 - 👯 Always happy to collaborate on full stack web project, with positive social impact.
-- 🤔 Looking for help with Docker AWS, cloud native app, Next.js
+- 🤔 Looking for help with Docker, AWS, Cloud Native app, Next.js
 - ⚡ Fun fact: I shoot 360 videos since 2015. Dream to build a Virtual Reality world.
 - 💬 Tell me a little about you too (maybe through a pull request 😄)!
 
