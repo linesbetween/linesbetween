@@ -1,10 +1,10 @@
 ### Hi there 👋
-- 🔭 I’m currently working on A line A day
-- 🌱 I’m currently learning React.JS, Typescript, Spring boot
-- 👯 I’m looking to collaborate on full stack web project
-- 🤔 I’m looking for help with Docker AWS, cloud native app, Nextjs
-- ⚡ Fun fact: I shoot 360 videos, play VR/AR
-- 💬 Ask me about ... anything!
+- 🔭 I’m currently working on 3 projects at the same time.
+- 🌱 Using and learning Java Spring, React, Next.js, Typescript, MySQL, Mongodb.
+- 👯 Always happy to collaborate on full stack web project, with positive social impact.
+- 🤔 Looking for help with Docker AWS, cloud native app, Next.js
+- ⚡ Fun fact: I shoot 360 videos since 2015. Dream to build a Virtual Reality world.
+- 💬 Tell me a little about you too (maybe through a pull request 😄)!
 
 <!--
 **linesbetween/linesbetween** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
