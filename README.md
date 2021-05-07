@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on 3 projects at the same time.
+- 🔭 I'm practicing frontend techniques with [Formation](https://github.com/formation-dev) .
 - 🌱 Using and learning Java Spring, React, Next.js, Typescript, MySQL, Mongodb.
 - 👯 Always happy to collaborate on full stack web project, with positive social impact.
 - 🤔 Looking for help with Docker, AWS, Cloud Native app, Next.js
