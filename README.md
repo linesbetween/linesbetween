@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I'm practicing frontend techniques with [Formation](https://github.com/formation-dev) .
+- 🔭 I'm practicing frontend techniques with 20+ [Formation](https://github.com/formation-dev) fellows.
 - 🌱 Using and learning Java Spring, React, Next.js, Typescript, MySQL, Mongodb.
 - 👯 Always happy to collaborate on full stack web project, with positive social impact.
 - 🤔 Looking for help with Docker, AWS, Cloud Native app, Next.js
